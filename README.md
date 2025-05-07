@@ -32,10 +32,5 @@ This project is a digital school catalog for the New York City Department of Edu
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
 
-
----
 
